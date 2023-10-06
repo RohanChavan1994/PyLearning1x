@@ -1,0 +1,7 @@
+myString = "Rohan"
+my_String = "Chavan"
+_name = "Rohan"
+#name = "Rohan"
+#name$rohan = "rohan"
+name1 = "Rohan"
+# 1name = "foo"

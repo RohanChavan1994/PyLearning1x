@@ -1,0 +1,10 @@
+name2 = "rohan"
+print(type(name2))
+print(len(name2))
+print(name2[0])
+print(name2[1])
+print(name2[2])
+print(name2[3])
+print(name2[4])
+# print(name2[5])
+# print(name2[5])
