@@ -1,3 +1,3 @@
 # About - PyLearning1x repo
-## The Testing Academy
+## _The Testing Academy_
 ### Job Ready Python Automation Blueprint ( Selenium + API Automation)-1x
