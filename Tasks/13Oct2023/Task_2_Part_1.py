@@ -2,7 +2,7 @@
 # area=π×r^2 (Take pie as 3.14)
 import math
 
-radius = int(input("Enter the radius: "))
+radius = float(input("Enter the radius: "))
 pi = 3.14
 area = pi * (radius ** 2)
 print("Area of circle is:", area)

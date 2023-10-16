@@ -12,7 +12,6 @@
 #
 #### _2. What does the ** operator do in Python, and how is it used ?_
 ##### Double asterisks (**) acts as an exponentiation operator for numeric values. ** operator is lightweight as compared to the pow() function because functions takes more processing and compilation power (because it takes parameters and has multiple statements embedded within it) than this operator.
-
 ###### _For example:_
 ###### a = 2
 ###### b = 6
@@ -20,10 +19,8 @@
 ###### print("The required output is {0}".format(c))
 #
 #
-
 #### _3. What does the ^ operator do in Python, and in what context is it commonly used ?_
 ##### Bitwise XOR (exclusive OR) -> Each bit position in the result is the logical XOR of the bits in the corresponding position of the operands. 1 if the bits in the operands are different, 0 if they’re equal.
-
 ###### _For example:_
 ###### print(6 ^ 3)
 
@@ -34,8 +31,6 @@
 ###### --------------------
 ###### 5 = 0000000000000101
 ###### ====================
-
-
 #
 ###### A bitwise operator works with the binary representation of a number rather than that number's value. The operand is treated as a set of bits, instead of as a single number.
 #
