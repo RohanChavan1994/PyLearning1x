@@ -1,4 +1,8 @@
+"""
 # Fibonacci -> 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89
+Fibonacci sequence, the sequence of numbers 1, 1, 2, 3, 5, 8, 13, 21, …, each of which, after the second,
+is the sum of the two previous numbers; that is, the nth Fibonacci number Fn = Fn − 1 + Fn − 2.
+"""
 
 num = int(input("Enter number of digits to display: "))
 
