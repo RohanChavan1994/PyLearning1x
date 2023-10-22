@@ -10,8 +10,6 @@ num1 = int(input("Enter a number: "))
 
 if num1 < 0:
     print("Please enter a positive integer")
-elif num1 == 0 or num1 == 1:
-    print(f"Factorial of {num1} is 1")
 else:
     factorial = 1
     for x in range(1, num1+1):

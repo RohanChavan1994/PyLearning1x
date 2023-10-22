@@ -17,9 +17,7 @@ elif num == 1:  # if there is only one digit, return n1
 else:  # generate fibonacci sequence
     print(f"Fibonacci sequence for {num} digits is: ", end="")
     while count < num:
-        print(f"{n1}", end=" ")
-        nth = n1 + n2
+        print(n1, end=" ")
         # update values
-        n1 = n2
-        n2 = nth
+        n1, n2 = n2, (n1 + n2)
         count += 1
